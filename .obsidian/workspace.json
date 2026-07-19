@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "91d8af72ddb08bcc",
+        "id": "6bb1da20c2ea90a3",
         "type": "tabs",
         "children": [
           {
-            "id": "3e83b53a2af41e2c",
+            "id": "cc76735276f17e3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linked Lists - Singly Linked List Operations.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Linked Lists - Singly Linked List Operations"
             }
           }
         ]
@@ -176,15 +180,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "3e83b53a2af41e2c",
+  "active": "cc76735276f17e3e",
   "lastOpenFiles": [
-    "README.md",
+    "Linked Lists - Doubly Linked List.md",
+    "Linked Lists - Singly Linked List Operations.md",
+    "Linked Lists - Sentinel Nodes.md",
+    "Linked Lists - Pointer Mechanics.md",
     "Hashing - Sets.md",
+    "Linked Lists - vs Arrays.md",
+    "Linked Lists - Overview.md",
+    "Linked Lists - Dummy Pointers.md",
+    "Fast and Slow Pointers - Overview.md",
+    "Fast and Slow Pointers - Kth Node From End.md",
+    "Fast and Slow Pointers - Find the Middle.md",
+    "Fast and Slow Pointers - Cycle Detection.md",
     "Hashing - Python Hash Map Interface.md",
     "Hashing - Hash Maps vs Arrays.md",
     "Hashing - Hash Maps.md",
     "Hashing - Hash Functions.md",
     "Hashing - Arrays as Keys.md",
+    "README.md",
     "Prefix Sum - Space Optimization.md",
     "Unconfirmed 241486.crdownload",
     "Prefix Sum - Range Sum Queries Example.md",
@@ -201,18 +216,7 @@
     "Unconfirmed 625849.crdownload",
     "Sliding Window - Overview.md",
     "Unconfirmed 77399.crdownload",
-    "Arrays and Strings - Overview.md",
-    "Two Pointers - Two Iterables Method.md",
     "Unconfirmed 942771.crdownload",
-    "Two Pointers - Converging Pointers Method.md",
-    "Unconfirmed 646497.crdownload",
-    "Two Pointers - Overview.md",
-    "Arrays and Strings - Time Complexity of Operations.md",
-    "Big O - Rules for Calculating Complexity.md",
-    "Big O - Overview.md",
-    "Recursion - Breaking Down Problems (Fibonacci).md",
-    "Recursion - Call Stack and Execution Order.md",
-    "Recursion - Base Cases.md",
-    "Recursion - Overview.md"
+    "Unconfirmed 646497.crdownload"
   ]
 }
