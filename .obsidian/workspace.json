@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6bb1da20c2ea90a3",
+        "id": "31e3fc9a042b3c3a",
         "type": "tabs",
         "children": [
           {
-            "id": "cc76735276f17e3e",
+            "id": "1c0290e33616d862",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked Lists - Singly Linked List Operations.md",
+                "file": "Binary Trees - Lowest Common Ancestor Example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linked Lists - Singly Linked List Operations"
+              "title": "Binary Trees - Lowest Common Ancestor Example"
             }
           }
         ]
@@ -180,10 +180,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc76735276f17e3e",
+  "active": "1c0290e33616d862",
   "lastOpenFiles": [
-    "Linked Lists - Doubly Linked List.md",
+    "Binary Trees - Maximum Depth Example.md",
+    "Fast and Slow Pointers - Cycle Detection.md",
     "Linked Lists - Singly Linked List Operations.md",
+    "Linked Lists - Doubly Linked List.md",
     "Linked Lists - Sentinel Nodes.md",
     "Linked Lists - Pointer Mechanics.md",
     "Hashing - Sets.md",
@@ -193,7 +195,6 @@
     "Fast and Slow Pointers - Overview.md",
     "Fast and Slow Pointers - Kth Node From End.md",
     "Fast and Slow Pointers - Find the Middle.md",
-    "Fast and Slow Pointers - Cycle Detection.md",
     "Hashing - Python Hash Map Interface.md",
     "Hashing - Hash Maps vs Arrays.md",
     "Hashing - Hash Maps.md",
@@ -214,7 +215,6 @@
     "Sliding Window - Counting Valid Subarrays.md",
     "Unconfirmed 723530.crdownload",
     "Unconfirmed 625849.crdownload",
-    "Sliding Window - Overview.md",
     "Unconfirmed 77399.crdownload",
     "Unconfirmed 942771.crdownload",
     "Unconfirmed 646497.crdownload"
