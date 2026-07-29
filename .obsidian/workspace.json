@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Trees - Lowest Common Ancestor Example.md",
+                "file": "Binary Trees - BFS Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binary Trees - Lowest Common Ancestor Example"
+              "title": "Binary Trees - BFS Overview"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "1c0290e33616d862",
   "lastOpenFiles": [
+    "Binary Trees - Lowest Common Ancestor Example.md",
     "Binary Trees - Maximum Depth Example.md",
     "Fast and Slow Pointers - Cycle Detection.md",
     "Linked Lists - Singly Linked List Operations.md",
@@ -212,7 +213,6 @@
     "Unconfirmed 915122.crdownload",
     "Sliding Window - Fixed Window Size.md",
     "Unconfirmed 629058.crdownload",
-    "Sliding Window - Counting Valid Subarrays.md",
     "Unconfirmed 723530.crdownload",
     "Unconfirmed 625849.crdownload",
     "Unconfirmed 77399.crdownload",
